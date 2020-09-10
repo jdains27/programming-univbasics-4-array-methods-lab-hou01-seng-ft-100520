@@ -20,4 +20,5 @@ end
 
 def using_size(array)
   array.size(array)
+  puts array
 end
